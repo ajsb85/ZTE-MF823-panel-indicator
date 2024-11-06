@@ -1,6 +1,6 @@
 {
     "require": {
         "guzzlehttp/guzzle": "^6.3",
-        "symfony/process": "^3.4"
+        "symfony/process": "^5.4"
     }
 }
